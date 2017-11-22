@@ -1,11 +1,11 @@
 package leaf
 
 import (
-	"github.com/name5566/leaf/cluster"
-	"github.com/name5566/leaf/conf"
-	"github.com/name5566/leaf/console"
-	"github.com/name5566/leaf/log"
-	"github.com/name5566/leaf/module"
+	"github.com/kongyt/leaf/cluster"
+	"github.com/kongyt/leaf/conf"
+	"github.com/kongyt/leaf/console"
+	"github.com/kongyt/leaf/log"
+	"github.com/kongyt/leaf/module"
 	"os"
 	"os/signal"
 )
